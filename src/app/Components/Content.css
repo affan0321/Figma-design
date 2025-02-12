@@ -1,0 +1,45 @@
+.bottom-border {
+  border-bottom: 1px solid #a9a9a9;
+  /* border-image: linear-gradient(-90deg, #A9A9A9) 1; */
+  margin-bottom: 1.5rem;
+  width: 120%;
+}
+
+.div8 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 50px;
+}
+
+.containers {
+  background-color: #000435;
+  color: #fff;
+}
+
+.containers1 {
+  width: 80%; /* Set width to 80% */
+  margin: 0 auto; /* Centers the container horizontally */
+  overflow: hidden; /* Prevents overflow issues */
+}
+
+.div10 {
+  width: 80%; /* Set width to 80% */
+  margin: 0 auto; /* Centers the container horizontally */
+  overflow: hidden;
+  padding: 60px;
+}
+
+.div11 {
+  background-color: #fff;
+  color: #000;
+  width: 550px;
+  height: 450px;
+  padding: 70px;
+  margin-bottom: 30px;
+}
+
+.div11 li{
+    color: #92c13c;
+}
+
