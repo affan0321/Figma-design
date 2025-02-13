@@ -2,10 +2,10 @@ import './Content.css';
 
 function Contents() {
     return (
-        <div className="containers">
+        <div style={{ marginTop: "70px", height: "750px" }} className="containers">
             <div className='div10'>
                 <h4>What We Are <span>Offering</span></h4>
-                <h1><span>Services </span>We Can Offer You!</h1>
+                <h1 style={{ fontSize: "48px" }}><span>Services </span>We Can Offer You!</h1>
             </div>
             <div className='div8 containers1'>
                 <div>
@@ -25,14 +25,14 @@ function Contents() {
                     <h4 style={{ marginBottom: "20px" }}>
                         Rely on Innovatech 360 to build consumer and enterprise-facing  web and mobile applications that offer rich experiences to customers, improve productivity for internal employees, and help you set up the technology infrastructure necessary to succeed in today’s fast-moving world.
                     </h4>
-                    <ul style={{marginBottom:"10px", paddingLeft:"15px"}}>
+                    <ul style={{ marginBottom: "10px", paddingLeft: "15px" }}>
                         <li>Website Applications</li>
                         <li>eCommerce Websites</li>
                         <li>Mobile Applications</li>
                         <li>Wordpress Development</li>
                         <li>Website Integrations</li>
                     </ul>
-                    <button className='btn1'>Learn More</button>
+                    <button style={{ color: "#fff" }} className='btn1'>Learn More</button>
                 </div>
             </div>
         </div>

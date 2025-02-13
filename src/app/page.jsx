@@ -6,6 +6,7 @@ import 'swiper/swiper-bundle.css';
 import CustomCarousel from "./Components/CustomCarousel";
 import MarqueeReverse from "./Components/MarqueeReverse";
 import Contents from "./Components/Contents";
+import Contents1 from "./Components/Contents1";
 
 
 export default function Home() {
@@ -16,6 +17,7 @@ export default function Home() {
       <CustomCarousel />
       <MarqueeReverse />
       <Contents />
+      <Contents1 />
     </div>
   );
 }

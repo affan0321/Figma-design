@@ -1,0 +1,16 @@
+.div12 {
+  background-color: #2e5a88;
+  height: 500px;
+}
+
+.div12 h1 {
+  text-align: center;
+  color: #fff;
+  padding-top: 50px;
+}
+
+.div12 p {
+  text-align: center;
+  color: #fff;
+  margin-bottom: 50px;
+}
