@@ -7,6 +7,7 @@ import CustomCarousel from "./Components/CustomCarousel";
 import MarqueeReverse from "./Components/MarqueeReverse";
 import Contents from "./Components/Contents";
 import Contents1 from "./Components/Contents1";
+import Contents2 from "./Components/Contents2";
 
 
 export default function Home() {
@@ -18,6 +19,7 @@ export default function Home() {
       <MarqueeReverse />
       <Contents />
       <Contents1 />
+      <Contents2 />
     </div>
   );
 }

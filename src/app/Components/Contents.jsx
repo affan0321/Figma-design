@@ -22,9 +22,9 @@ function Contents() {
                 </div>
                 <div className='div11'>
                     <h1 style={{ marginBottom: "20px" }}>Web Application</h1>
-                    <h4 style={{ marginBottom: "20px" }}>
+                    <h3 style={{ marginBottom: "20px" }}>
                         Rely on Innovatech 360 to build consumer and enterprise-facing  web and mobile applications that offer rich experiences to customers, improve productivity for internal employees, and help you set up the technology infrastructure necessary to succeed in today’s fast-moving world.
-                    </h4>
+                    </h3>
                     <ul style={{ marginBottom: "10px", paddingLeft: "15px" }}>
                         <li>Website Applications</li>
                         <li>eCommerce Websites</li>
